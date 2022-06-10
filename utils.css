@@ -1,0 +1,70 @@
+.flex
+{
+    display: flex;
+}
+.dot-remove{
+    list-style:none;
+}
+nav{
+    padding:0px 120px;
+}
+.spacing{
+    padding:12px 12px;
+}
+.uppertext
+{
+    text-transform: uppercase;
+}
+.text-center
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+}
+
+.fonts
+{
+    font-size: 1.2rem;
+}
+.mx-2
+{
+    padding:12px 12px;
+}
+.mx-1{
+    padding:0px 163px;
+}
+/* .my-1{
+    padding:20px 0px;
+} */
+.img-edit
+{
+width:100vw;
+height:80vh;
+overflow-x: hidden;
+}
+
+.black
+{
+    background-color: black;
+    width:98.7vw;
+    height:11vh;
+    overflow-x:hidden;
+}
+.margin-auto
+{
+    margin: auto;
+}
+.text-color
+{
+    color:aliceblue;
+}
+.third-img
+{
+    overflow-y: hidden;
+    height:83vh;
+}
+.container
+{
+    background-color:rgb(143, 91, 91);
+}
